@@ -1,0 +1,12 @@
+{
+  "name": "say",
+  "version" : "0.0.1",
+  "description": "Node server for svox pico",
+  "author": "Christophe Meurice <meumeu1402@gmail.com>",
+  "dependencies" : {
+    "restify": ">= 2.5.0"
+  },
+  "engine": {
+    "node" : ">= 0.8.8"
+  }
+}
